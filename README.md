@@ -1,4 +1,4 @@
-# Tugas-Akhir-Prak-ASD
+# Tugas Akhir Praktikum ASD
 Praktikum Algoritma & Struktur Data (ASD) with Python - Quick Sort (Data Jadwal Pertandingan Piala Dunia 2018)
 
 Anggota Kelompok :
